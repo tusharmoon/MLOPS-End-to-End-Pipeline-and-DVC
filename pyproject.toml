@@ -1,0 +1,12 @@
+[project]
+name = "mlops-end-to-end-pipeline-and-dvc"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "nltk>=3.9.2",
+    "pandas>=2.3.3",
+    "pyyaml>=6.0.3",
+    "scikit-learn>=1.8.0",
+]
